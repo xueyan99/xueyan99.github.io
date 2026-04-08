@@ -39,15 +39,7 @@ My research explores the **structural dynamics of health information and health 
 I employ a **mixed-methods approach**, integrating quantitative methods (surveys, experiments, computational methods including topic modeling, difference-in-differences, and LLM-based analysis) with qualitative approaches (in-depth interviews, walk-through method, and thematic analysis). I work with **R, Python, SPSS, Mplus, and Nvivo**.
 
 ---
+## Selected Publication
 
 {% include selected_papers.liquid %}
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
