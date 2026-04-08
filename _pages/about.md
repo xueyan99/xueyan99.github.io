@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Communication
 
 profile:
   align: right
-  image: profile.jpg
+  image: DSC07799.jpg
   image_circular: false
   more_info: >
     <p>The Chinese University of Hong Kong</p>
