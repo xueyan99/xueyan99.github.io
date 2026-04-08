@@ -38,14 +38,16 @@ My research explores the **structural dynamics of health information and health 
 
 I employ a **mixed-methods approach**, integrating quantitative methods (surveys, experiments, computational methods including topic modeling, difference-in-differences, and LLM-based analysis) with qualitative approaches (in-depth interviews, walk-through method, and thematic analysis). I work with **R, Python, SPSS, Mplus, and Nvivo**.
 
-## Academic Service
-
-I serve as an **Assistant Managing Editor** for the [*Journal of Contemporary Eastern Asia*](https://jceasia.org/) (2025–present), coordinating manuscript publishing and preparing special issues. I am also an **Associated Expert** with the Mediatized Alternative Futures Academic Network (2025–present). Previously, I worked as an **Editorial Assistant** for the [*Journal of Communication and Society*](https://www.cschinese.com/)  (2023–2024), handling manuscript proofreading, style checks, and annual journal data preparation.
-
-I regularly review for journals including *Health Communication*, *New Media & Society*, *Asia Pacific Viewpoint*, and the *Journal of Current Chinese Affairs*.
-
 ---
 
-## Selected Publications
-
 {% include selected_papers.liquid %}
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
