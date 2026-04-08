@@ -20,54 +20,32 @@ social: true
 
 ## About Me
 
-I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor **CHEN Hsuan-ting**. My research lies at the intersection of **health communication** and **human-machine interaction**.
+I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor [**CHEN Hsuan-ting**](https://www.com.cuhk.edu.hk/en/people/faculty/prof-chen-hsuan-ting). My research lies at the intersection of **health communication** and **human-machine interaction**. (Name pronunciation: Xueyan /ʃweɪ jæn/ - like "sh-way yan")
 
 Previously, I received my M.A. and B.A. in Communication from Wuhan University.
 
 ---
 
-## Research Themes
+## Research Approach
 
-My work centers on understanding how digital technologies reshape health perceptions, social interactions, and public engagement. I organize my research around three interconnected themes:
+My research explores the **structural dynamics of health information and health behavior**, with a particular focus on the role of **non-human agents**. I organize my work around three interconnected keywords: **health, politics, and technology**. The following are my main questions:
 
-### 🔬 Politicized Health Issues
+- **Politicised Health Issues** → How health issues become politicised and what are the consequences?
 
-Health is never purely medical—it is often entangled with politics, morality, and stigma. I examine how **disgust and stigma** influence prevention behaviors during disease outbreaks (e.g., Mpox, COVID-19).
+- **Technology for Health** → Whether AI can become an effective health promotion tool?
 
-**Selected work:** *Health Communication* (2025)
+- **Technology Governance** → How do individuals employ technology to conduct everyday resistance?
 
----
+I employ a **mixed-methods approach**, integrating quantitative methods (surveys, experiments, computational methods including topic modeling, difference-in-differences, and LLM-based analysis) with qualitative approaches (in-depth interviews, walk-through method, and thematic analysis). I work with **R, Python, SPSS, Mplus, and Nvivo**.
 
-### 🤖 Non-human Agents
+## Academic Service
 
-From chatbots to companion robots, non-human agents are increasingly mediating health interventions and family life. I investigate **how anthropomorphic design affects therapeutic outcomes**.
+I serve as an **Assistant Managing Editor** for the [*Journal of Contemporary Eastern Asia*](https://jceasia.org/) (2025–present), coordinating manuscript publishing and preparing special issues. I am also an **Associated Expert** with the Mediatized Alternative Futures Academic Network (2025–present). Previously, I worked as an **Editorial Assistant** for the [*Journal of Communication and Society*] (https://www.cschinese.com/) (2023–2024), handling manuscript proofreading, style checks, and annual journal data preparation.
 
-**Selected work:** *ICA 2026*
-
----
-
-### 💻 Technology Intervention
-
-Digital tools are not neutral carriers—they actively shape behavior, participation, and resistance. I study how **gamified health apps** reconfigure sleep practices, how **online communities** enable alternative political expression, and how **digital platforms** mediate health information seeking for vulnerable populations.
-
-**Selected work:** *China Information* (2025)
+I regularly review for journals including *Health Communication*, *New Media & Society*, *Asia Pacific Viewpoint*, and the *Journal of Current Chinese Affairs*.
 
 ---
 
-## Methodology
+## Selected Publications
 
-I employ a mixed-methods approach, integrating:
-- **Quantitative:** Surveys, experiments, computational methods (topic modeling, difference-in-differences, LLM-based analysis)
-- **Qualitative:** In-depth interviews, walk-through method, thematic analysis
-
-**Software:** R, Python, SPSS, Mplus, Nvivo
-
----
-
-## Contact
-
-I am open to collaboration and discussion. Feel free to reach out via email: **caoxueyan@link.cuhk.edu.hk**
-
----
-
-*Name pronunciation: Xueyan /ʃweɪ jæn/ (like "sh-way yan")*
+{% include selected_papers.liquid %}
