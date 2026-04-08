@@ -32,17 +32,17 @@ My work centers on understanding how digital technologies reshape health percept
 
 ### 🔬 Politicized Health Issues
 
-Health is never purely medical—it is often entangled with politics, morality, and stigma. I examine how **disgust, stigma, and perceived misinformation** influence prevention behaviors during disease outbreaks (e.g., Mpox, COVID-19), and how **lockdown politics** fuel conspiracy theories as forms of everyday resistance.
+Health is never purely medical—it is often entangled with politics, morality, and stigma. I examine how **disgust and stigma** influence prevention behaviors during disease outbreaks (e.g., Mpox, COVID-19).
 
-**Selected work:** *Health Communication* (2025), *Communication Research* (under review)
+**Selected work:** *Health Communication* (2025)
 
 ---
 
 ### 🤖 Non-human Agents
 
-From chatbots to companion robots, non-human agents are increasingly mediating health interventions and family life. I investigate **how anthropomorphic design affects therapeutic outcomes** for populations with depression, and how **parents perceive child-oriented robots**—as toys, friends, or proxies.
+From chatbots to companion robots, non-human agents are increasingly mediating health interventions and family life. I investigate **how anthropomorphic design affects therapeutic outcomes**.
 
-**Selected work:** *ICA 2026*, *AEJMC 2024*, *IAMCR 2023*
+**Selected work:** *ICA 2026*
 
 ---
 
@@ -50,7 +50,7 @@ From chatbots to companion robots, non-human agents are increasingly mediating h
 
 Digital tools are not neutral carriers—they actively shape behavior, participation, and resistance. I study how **gamified health apps** reconfigure sleep practices, how **online communities** enable alternative political expression, and how **digital platforms** mediate health information seeking for vulnerable populations.
 
-**Selected work:** *China Information* (2025), *AEJMC 2026* (under review)
+**Selected work:** *China Information* (2025)
 
 ---
 
