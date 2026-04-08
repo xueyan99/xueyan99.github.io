@@ -1,34 +1,73 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate in Communication
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>The Chinese University of Hong Kong</p>
+    <p>Shatin, N.T., Hong Kong SAR</p>
+    <p>caoxueyan@link.cuhk.edu.hk</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor **CHEN Hsuan-ting**. My research lies at the intersection of **health communication** and **human-machine interaction**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I received my M.A. and B.A. in Communication from Wuhan University.
+
+---
+
+## Research Themes
+
+My work centers on understanding how digital technologies reshape health perceptions, social interactions, and public engagement. I organize my research around three interconnected themes:
+
+### 🔬 Politicized Health Issues
+
+Health is never purely medical—it is often entangled with politics, morality, and stigma. I examine how **disgust, stigma, and perceived misinformation** influence prevention behaviors during disease outbreaks (e.g., Mpox, COVID-19), and how **lockdown politics** fuel conspiracy theories as forms of everyday resistance.
+
+**Selected work:** *Health Communication* (2025), *Communication Research* (under review)
+
+---
+
+### 🤖 Non-human Agents
+
+From chatbots to companion robots, non-human agents are increasingly mediating health interventions and family life. I investigate **how anthropomorphic design affects therapeutic outcomes** for populations with depression, and how **parents perceive child-oriented robots**—as toys, friends, or proxies.
+
+**Selected work:** *ICA 2026*, *AEJMC 2024*, *IAMCR 2023*
+
+---
+
+### 💻 Technology Intervention
+
+Digital tools are not neutral carriers—they actively shape behavior, participation, and resistance. I study how **gamified health apps** reconfigure sleep practices, how **online communities** enable alternative political expression, and how **digital platforms** mediate health information seeking for vulnerable populations.
+
+**Selected work:** *China Information* (2025), *AEJMC 2026* (under review)
+
+---
+
+## Methodology
+
+I employ a mixed-methods approach, integrating:
+- **Quantitative:** Surveys, experiments, computational methods (topic modeling, difference-in-differences, LLM-based analysis)
+- **Qualitative:** In-depth interviews, walk-through method, thematic analysis
+
+**Software:** R, Python, SPSS, Mplus, Nvivo
+
+---
+
+## Contact
+
+I am open to collaboration and discussion. Feel free to reach out via email: **caoxueyan@link.cuhk.edu.hk**
+
+---
+
+*Name pronunciation: Xueyan /ʃweɪ jæn/ (like "sh-way yan")*
