@@ -41,5 +41,4 @@ I employ a **mixed-methods approach**, integrating quantitative methods (surveys
 ---
 ## Selected Publication
 
-{% include selected_papers.liquid %}
 
