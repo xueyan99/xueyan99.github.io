@@ -186,3 +186,8 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+.bibliography .author-highlight {
+  text-decoration: none !important;
+  font-weight: bold !important;
+}
