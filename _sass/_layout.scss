@@ -40,12 +40,6 @@ body.sticky-bottom-footer {
   }
 }
 
-// 调整社交媒体图标大小
-.social-icons {
-  .fa, .fab, .fas, .far, .ai {
-    font-size: 1.2rem !important;  // 默认一般是 1.5rem，调小一点
-  }
-}
 
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
