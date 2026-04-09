@@ -20,9 +20,11 @@ social: true
 
 ## About Me
 
-I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor [**CHEN Hsuan-ting**](https://www.com.cuhk.edu.hk/people/chen-hsuan-ting-2/). My research lies at the intersection of **health communication** and **human-machine interaction**. (Name pronunciation: Xueyan /ʃweɪ jæn/ - like "sh-way yan")
+I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor [**CHEN Hsuan-ting**](https://www.com.cuhk.edu.hk/people/chen-hsuan-ting-2/). My research lies at the intersection of **health communication** and **human-machine interaction**. 
 
 Previously, I received my M.A. and B.A. in Communication from Wuhan University.
+
+(Name pronunciation: Xueyan /ʃweɪ jæn/ - like "sh-way yan")
 
 ---
 
