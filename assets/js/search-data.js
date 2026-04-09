@@ -530,14 +530,7 @@ ninja.data = [{
         title: 'whatsapp',
         section: 'Socials',
         handler: () => {
-          window.open("https://wa.me/+852 67696632", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://wa.me/85267696632", "_blank");
         },
       },{
       id: 'light-theme',
