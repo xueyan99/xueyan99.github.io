@@ -6,6 +6,7 @@ title: Xueyan Cao # the website title (if blank, full name will be used instead)
 first_name: Xueyan
 middle_name: 
 last_name: Cao
+future: true 
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
    Ph.D. student in Communication at CUHK researching health communication and human-machine interaction.
