@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-presented-two-papers-at-the-ica-2026-conference-in-cape-town-south-africa",
           title: 'Presented two papers at the ICA 2026 conference in Cape Town, South Africa....',
+          description: "",
+          section: "News",},{id: "news-presented-one-paper-at-the-ecc-2026-conference-on-the-premises-of-masaryk-university-brno-czech-republic",
+          title: 'Presented one paper at the ECC 2026 conference on the premises of Masaryk...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
