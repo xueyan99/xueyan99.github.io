@@ -14,6 +14,9 @@ profile:
     <p>caoxueyan@link.cuhk.edu.hk</p>
 
 news: true
+announcements:      # 👈 添加这几行
+  enabled: true     # 👈 这是显示新闻的关键开关
+  limit: 5          # 👈 设定最多显示几条
 selected_papers: true
 social: true
 ---
