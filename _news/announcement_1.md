@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented two papers at the **ICA 2026**[https://www.icahdq.org/mpage/ICA26] conference in Cape Town, South Africa.
+Presented two papers at the [**ICA 2026**](https://www.icahdq.org/mpage/ICA26) conference in Cape Town, South Africa.
