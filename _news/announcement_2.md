@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented one paper at the [**CDigra 2026**](https://ecrea2026brno.eu/) conference on the premises of Masaryk University, Brno, Czech Republic.
+One paper about environmental journalism has been accepted by the [**CDigra 2026**](https://ecrea2026brno.eu/) conference on the premises of Masaryk University, Brno, Czech Republic.
