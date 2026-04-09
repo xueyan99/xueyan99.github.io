@@ -26,7 +26,7 @@ Previously, I received my M.A. and B.A. in Communication from Wuhan University.
 
 ---
 
-## Research Approach
+## Research Focus
 
 My research explores the **structural dynamics of health information and health behavior**, with a particular focus on the role of **non-human agents**. I organize my work around three interconnected keywords: **health, politics, and technology**. The following are my main questions:
 
