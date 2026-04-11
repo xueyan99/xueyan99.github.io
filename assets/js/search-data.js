@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-present-two-papers-at-the-ica-2026-conference-in-cape-town-south-africa-communication-technology-division-amp-amp-political-communication-division",
+            },},{id: "news-my-proposal-has-been-officially-supported-by-the-google-cloud-research-credits-program",
+          title: 'My proposal has been officially supported by the Google Cloud Research Credits Program....',
+          description: "",
+          section: "News",},{id: "news-i-will-present-two-papers-at-the-ica-2026-conference-in-cape-town-south-africa-communication-technology-division-amp-amp-political-communication-division",
           title: 'I will present two papers at the ICA 2026 conference in Cape Town,...',
           description: "",
           section: "News",},{id: "news-one-paper-about-environmental-journalism-has-been-accepted-by-the-ecc-2026-conference-on-the-premises-of-masaryk-university-brno-czech-republic",
