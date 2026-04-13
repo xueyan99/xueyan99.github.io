@@ -23,7 +23,7 @@ education:
     gpa: 3.74
     honors: Excellent Graduate Student Award
 
-academic service:
+academic_service:   # 👈 注意：不能有空格，用下划线
   - role: Assistant Managing Editor
     organization: Journal of Contemporary Eastern Asia
     date: 2025 - Present
@@ -37,13 +37,13 @@ academic service:
     organization: Journal of Communication and Society
     date: 2023 - 2024
 
-reviewer:
+reviewer:   # 👈 保持原样
   - Health Communication
   - New Media & Society
   - Asia Pacific Viewpoint
   - Journal of Current Chinese Affairs
 
-invited_talks:
+invited_talks:   # 👈 注意：不能有空格，用下划线
   - title: How Stigma Influences Health Prevention?
     institution: Shandong University
     date: November 2025
@@ -102,7 +102,7 @@ skills:
       - Computational Analysis (Topic Modelling, Difference in Differences, LLM)
       - Interview, Walk through Method, Thematic Analysis
 
-professional experience:
+professional_experience:   # 👈 注意：不能有空格，用下划线
   - company: Tencent (Beijing)
     position: Product Manager Intern
     date: 2017 - 2020
