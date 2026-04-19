@@ -1,113 +1,118 @@
-name: Xueyan Cao
-email: caoxueyan@link.cuhk.edu.hk
-phone: "+852 6769 6632"
-location: Hong Kong SAR
-website: https://xueyan99.github.io/academic2026
-
-education:
-  - institution: The Chinese University of Hong Kong 
-    degree: Ph.D. in Communication
-    date: 2023 - Present
-    location: Hong Kong, China
-    advisor: Professor CHEN Hsuan-ting
-  - institution: Wuhan University
-    degree: M.A. in Communication
-    date: 2020 - 2023
-    location: Wuhan, China
-    gpa: 3.57
-    honors: Excellent Graduate Student Award
-  - institution: Wuhan University
-    degree: B.A. in Communication
-    date: 2016 - 2020
-    location: Wuhan, China
-    gpa: 3.74
-    honors: Excellent Graduate Student Award
-
-academic_service:   # 👈 注意：不能有空格，用下划线
-  - role: Assistant Managing Editor
-    organization: Journal of Contemporary Eastern Asia
-    date: 2025 - Present
-  - role: Associated Expert
-    organization: Mediatized Alternative Futures Academic Network
-    date: 2025 - Present
-  - role: Panel Moderator
-    organization: CUHK Postgraduate Student Conference
-    date: 2025
-  - role: Editorial Assistant
-    organization: Journal of Communication and Society
-    date: 2023 - 2024
-
-reviewer:   # 👈 保持原样
-  - Health Communication
-  - New Media & Society
-  - Asia Pacific Viewpoint
-  - Journal of Current Chinese Affairs
-
-invited_talks:   # 👈 注意：不能有空格，用下划线
-  - title: How Stigma Influences Health Prevention?
-    institution: Shandong University
-    date: November 2025
-
-teaching:
-  - institution: The Chinese University of Hong Kong
-    course: COMM2530 Critical Studies in Media and Communication
-    role: Teaching Assistant
-    date: 2024
-
-publications:
-  - title: How Does Disgust Affect Mpox Prevention?
-    authors: Cao, X., & Zheng, N.
-    journal: Health Communication
-    year: 2025
-  - title: Alternative Political Engagement through Daily Life Sharing in China's Virtual Wailing Wall After COVID-19
-    authors: Cao, X., & Zhang, D.
-    journal: China Information
-    year: 2025
-  - title: Navigating through the Tempest
-    authors: Zhao, Z., Cao, X., & Lv, S.
-    journal: Environmental Communication
-    year: 2025
-  - title: Measuring Museum Visitors' Perceived Value to Predict Word-of-Mouth Communication
-    authors: Cao, X., & Li, K.
-    journal: International Journal of Arts Management
-    year: 2025
-
-awards:
-  - title: Outstanding Teaching Assistant
-    year: 2024, 2025
-    institution: The Chinese University of Hong Kong
-  - title: Excellent Graduate Student Award
-    year: 2023
-    institution: Wuhan University
-  - title: Graduate National Academic Scholarship
-    year: 2021, 2022
-    institution: Ministry of Education of China
-  - title: Undergraduate National Academic Scholarship
-    year: 2017
-    institution: Ministry of Education of China
-
-skills:
-  - category: Languages
-    items:
-      - Chinese (Native)
-      - English (Advanced)
-      - Japanese (Intermediate)
-  - category: Software
-    items:
-      - SPSS, Mplus, Amos, Smart PLS
-      - Nvivo, R, Python
-  - category: Methodology
-    items:
-      - Survey, Experiment
-      - Computational Analysis (Topic Modelling, Difference in Differences, LLM)
-      - Interview, Walk through Method, Thematic Analysis
-
-professional_experience:   # 👈 注意：不能有空格，用下划线
-  - company: Tencent (Beijing)
-    position: Product Manager Intern
-    date: 2017 - 2020
-    summary: Assisted in iterative design of key app features through user research and feedback analysis.
-  - company: Netease (Beijing)
-    position: Content Creator Intern
-    date: 2019
-    summary: Authored and published 20+ viral articles, each exceeding over 100,000 views.
+cv:
+  name: Xueyan Cao
+  email: caoxueyan@link.cuhk.edu.hk
+  phone: "+852 6769 6632"
+  website: https://xueyan99.github.io/academic2026
+  address:
+    city: Hong Kong SAR
+  sections:
+    Education:
+      - institution: The Chinese University of Hong Kong
+        degree: Ph.D. in Communication
+        start_date: 2023
+        end_date: Present
+        location: Hong Kong, China
+        highlights:
+          - "Advisor: Professor CHEN Hsuan-ting"
+      - institution: Wuhan University
+        degree: M.A. in Communication
+        start_date: 2020
+        end_date: 2023
+        location: Wuhan, China
+        highlights:
+          - "GPA: 3.57"
+          - "Honors: Excellent Graduate Student Award"
+      - institution: Wuhan University
+        degree: B.A. in Communication
+        start_date: 2016
+        end_date: 2020
+        location: Wuhan, China
+        highlights:
+          - "GPA: 3.74"
+          - "Honors: Excellent Graduate Student Award"
+    Experience:
+      - company: Tencent (Beijing)
+        position: Product Manager Intern
+        start_date: 2017
+        end_date: 2020
+        summary: Assisted in iterative design of key app features through user research and feedback analysis.
+      - company: Netease (Beijing)
+        position: Content Creator Intern
+        start_date: 2019
+        end_date: 2019
+        summary: Authored and published 20+ viral articles, each exceeding over 100,000 views.
+    Academic Service:
+      - organization: Journal of Contemporary Eastern Asia
+        position: Assistant Managing Editor
+        start_date: 2025
+        end_date: Present
+      - organization: Mediatized Alternative Futures Academic Network
+        position: Associated Expert
+        start_date: 2025
+        end_date: Present
+      - organization: CUHK Postgraduate Student Conference
+        position: Panel Moderator
+        start_date: 2025
+        end_date: 2025
+      - organization: Journal of Communication and Society
+        position: Editorial Assistant
+        start_date: 2023
+        end_date: 2024
+    Teaching:
+      - organization: The Chinese University of Hong Kong
+        position: Teaching Assistant
+        start_date: 2024
+        end_date: 2024
+        summary: COMM2530 Critical Studies in Media and Communication
+    Publications:
+      - title: How Does Disgust Affect Mpox Prevention?
+        date: 2025
+        publisher: Health Communication
+        summary: Cao, X., & Zheng, N.
+      - title: Alternative Political Engagement through Daily Life Sharing in China's Virtual Wailing Wall After COVID-19
+        date: 2025
+        publisher: China Information
+        summary: Cao, X., & Zhang, D.
+      - title: Navigating through the Tempest
+        date: 2025
+        publisher: Environmental Communication
+        summary: Zhao, Z., Cao, X., & Lv, S.
+      - title: Measuring Museum Visitors' Perceived Value to Predict Word-of-Mouth Communication
+        date: 2025
+        publisher: International Journal of Arts Management
+        summary: Cao, X., & Li, K.
+    Awards:
+      - title: Outstanding Teaching Assistant
+        date: 2024-2025
+        awarder: The Chinese University of Hong Kong
+      - title: Excellent Graduate Student Award
+        date: 2023
+        awarder: Wuhan University
+      - title: Graduate National Academic Scholarship
+        date: 2021-2022
+        awarder: Ministry of Education of China
+      - title: Undergraduate National Academic Scholarship
+        date: 2017
+        awarder: Ministry of Education of China
+    Reviewer:
+      - bullet: Health Communication
+      - bullet: New Media & Society
+      - bullet: Asia Pacific Viewpoint
+      - bullet: Journal of Current Chinese Affairs
+    Invited Talks:
+      - bullet: How Stigma Influences Health Prevention?, Shandong University, November 2025
+    Skills:
+      - name: Languages
+        keywords:
+          - Chinese (Native)
+          - English (Advanced)
+          - Japanese (Intermediate)
+      - name: Software
+        keywords:
+          - SPSS, Mplus, Amos, Smart PLS
+          - Nvivo, R, Python
+      - name: Methodology
+        keywords:
+          - Survey, Experiment
+          - Computational Analysis (Topic Modelling, Difference in Differences, LLM)
+          - Interview, Walk through Method, Thematic Analysis
