@@ -34,13 +34,13 @@
             {% endif %}
 
             {% if entry.publisher %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>{{ entry.publisher }}</em>
-              </h6>
-            {% endif %}
-
-            {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+              <div class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                <em>{{ entry.publisher }}</em>{% if entry.summary %} — {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
+              </div>
+            {% elsif entry.summary %}
+              <div class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+              </div>
             {% endif %}
           </div>
         {% else %}
@@ -54,13 +54,13 @@
             {% endif %}
 
             {% if entry.publisher %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <em>{{ entry.publisher }}</em>
-              </h6>
-            {% endif %}
-
-            {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+              <div class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                <em>{{ entry.publisher }}</em>{% if entry.summary %} — {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
+              </div>
+            {% elsif entry.summary %}
+              <div class="ml-1 ml-md-4" style="font-size: 0.95rem">
+                {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+              </div>
             {% endif %}
           </div>
         {% endif %}

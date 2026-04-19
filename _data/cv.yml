@@ -2,7 +2,6 @@ cv:
   name: Xueyan Cao
   email: caoxueyan@link.cuhk.edu.hk
   phone: "+852 6769 6632"
-  website: https://xueyan99.github.io/academic2026
   address:
     city: Hong Kong SAR
   sections:
@@ -30,40 +29,6 @@ cv:
         highlights:
           - "GPA: 3.74"
           - "Honors: Excellent Graduate Student Award"
-    Experience:
-      - company: Tencent (Beijing)
-        position: Product Manager Intern
-        start_date: 2017
-        end_date: 2020
-        summary: Assisted in iterative design of key app features through user research and feedback analysis.
-      - company: Netease (Beijing)
-        position: Content Creator Intern
-        start_date: 2019
-        end_date: 2019
-        summary: Authored and published 20+ viral articles, each exceeding over 100,000 views.
-    Academic Service:
-      - organization: Journal of Contemporary Eastern Asia
-        position: Assistant Managing Editor
-        start_date: 2025
-        end_date: Present
-      - organization: Mediatized Alternative Futures Academic Network
-        position: Associated Expert
-        start_date: 2025
-        end_date: Present
-      - organization: CUHK Postgraduate Student Conference
-        position: Panel Moderator
-        start_date: 2025
-        end_date: 2025
-      - organization: Journal of Communication and Society
-        position: Editorial Assistant
-        start_date: 2023
-        end_date: 2024
-    Teaching:
-      - organization: The Chinese University of Hong Kong
-        position: Teaching Assistant
-        start_date: 2024
-        end_date: 2024
-        summary: COMM2530 Critical Studies in Media and Communication
     Publications:
       - title: How Does Disgust Affect Mpox Prevention?
         date: 2025
@@ -81,6 +46,14 @@ cv:
         date: 2025
         publisher: International Journal of Arts Management
         summary: Cao, X., & Li, K.
+    Invited Talks:
+      - bullet: How Stigma Influences Health Prevention?, Shandong University, November 2025
+    Teaching:
+      - organization: The Chinese University of Hong Kong
+        position: Teaching Assistant
+        start_date: 2024
+        end_date: 2026
+        summary: COMM2530 Critical Studies in Media and Communication（共两次）
     Awards:
       - title: Outstanding Teaching Assistant
         date: 2024-2025
@@ -99,8 +72,6 @@ cv:
       - bullet: New Media & Society
       - bullet: Asia Pacific Viewpoint
       - bullet: Journal of Current Chinese Affairs
-    Invited Talks:
-      - bullet: How Stigma Influences Health Prevention?, Shandong University, November 2025
     Skills:
       - name: Languages
         keywords:
