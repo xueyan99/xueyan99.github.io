@@ -28,6 +28,11 @@ cv:
         highlights:
           - "Honors: Excellent Graduate Student Award"
     Publications:
+      - title: "ADHD in an underserved context: how Chinese social media users discuss recognition, care, and difficulty"
+        date: 2026
+        publisher: Academia Mental Health and Well-Being, 3(3)
+        summary: Cao, X., & Wang, Y.
+        url: https://doi.org/10.20935/MHealthWellB8513
       - title: How Does Disgust Affect Mpox Prevention?
         date: 2025
         publisher: Health Communication
@@ -44,9 +49,17 @@ cv:
         date: 2025
         publisher: International Journal of Arts Management
         summary: Cao, X., & Li, K.
+    Conference Presentations:
+      - bullet: "Cao, X. (2026, November 19–22). Cancer-related paper accepted for presentation at the 112th Annual Convention of the National Communication Association (NCA), New Orleans, LA."
     Invited Talks:
+      - bullet: "Understanding the World through Media Psychology: From Everyday Puzzles to Researchable Questions, The Education University of Hong Kong, September 2026"
       - bullet: Game as Persuasive Machine, Shenzhen University, April 2026
       - bullet: How Stigma Influences Health Prevention?, Shandong University, November 2025
+    Grant Applications:
+      - title: Anti-cancer stigma project
+        date: 2026
+        awarder: Interdisciplinary Research Seed Funding, Faculty of Social Science, The Chinese University of Hong Kong
+        summary: "Role: Team Leader; Collaborators: A. Li and Y. Tian; Status: Approved; Amount: HK$15,000"
     Teaching:
       - organization: The Chinese University of Hong Kong
         position: Teaching Assistant
