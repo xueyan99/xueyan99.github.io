@@ -16,7 +16,7 @@ profile:
 news: true
 announcements:
   enabled: true
-  limit: 5
+  limit: 2
 selected_papers: true
 social: true
 ---
