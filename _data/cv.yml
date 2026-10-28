@@ -6,6 +6,15 @@ cv:
     city: Hong Kong SAR, China
   sections:
     Education:
+      - institution: Yale University
+        degree: Visiting Ph.D. Student
+        area: Human Nature Lab
+        start_date: 2026-10-01
+        end_date: Present
+        location: New Haven, CT, USA
+        highlights:
+          - "Visiting period: October 1, 2026–Present"
+          - "Hosting supervisor: Professor Nicholas A. Christakis"
       - institution: The Chinese University of Hong Kong
         degree: Ph.D. in Communication
         start_date: 2023
@@ -28,11 +37,14 @@ cv:
         highlights:
           - "Honors: Excellent Graduate Student Award"
     Publications:
+      - title: "Visualizing Climate Change in the Digital Information Ecosystem: Multimodal Framing in Official Chinese and EU Government Videos"
+        date: 2026
+        publisher: International Communication Gazette (accepted; in press)
+        summary: Zhang, D., Cao, X., & Huang, Y.
       - title: "ADHD in an underserved context: how Chinese social media users discuss recognition, care, and difficulty"
         date: 2026
         publisher: Academia Mental Health and Well-Being, 3(3)
         summary: Cao, X., & Wang, Y.
-        url: https://doi.org/10.20935/MHealthWellB8513
       - title: How Does Disgust Affect Mpox Prevention?
         date: 2025
         publisher: Health Communication
@@ -84,7 +96,6 @@ cv:
         position: Assistant Editor
         start_date: 2026
         end_date: Present
-        url: https://www.ojed.org/med
       - organization: Journal of Contemporary Eastern Asia
         position: Assistant Managing Editor
         start_date: 2025

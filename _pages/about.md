@@ -25,6 +25,8 @@ social: true
 
 I am a Ph.D. student in Communication at **The Chinese University of Hong Kong**, advised by Professor [**CHEN Hsuan-ting**](https://www.com.cuhk.edu.hk/people/chen-hsuan-ting-2/). My research lies at the intersection of **health communication** and **human-machine interaction**. 
 
+Since October 2026, I have been a visiting Ph.D. student at Yale University's [**Human Nature Lab**](https://humannaturelab.net/), hosted by Professor **Nicholas A. Christakis**.
+
 Previously, I received my M.A. and B.A. in Communication from Wuhan University.
 
 (Name pronunciation: Xueyan /ʃweɪ jæn/ - like "sh-way yan")
